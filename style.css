@@ -1,0 +1,80 @@
+@charset "utf-8";
+#clock {
+	width: 400px;
+	height: 300px;
+	margin: auto;
+	position: relative;
+	background-color: #6a6347;
+}
+/* onの時は、#150c08 */ 
+#clock div {
+	background-color: #655e42;
+	position: absolute;
+	border-radius: 10px;
+}
+.vs {
+	width: 20px;
+	height: 100px;
+	transform: skew(-5deg);
+}
+.hs {
+	width: 100px;
+	height: 20px;
+}
+#s1 {
+	top: 50px;
+	left: 44px;
+}
+#s2 {
+	top: 150px;
+	left: 35px;
+}
+#s3 {
+	top: 43px;
+	left: 64px;
+}
+#s4 {
+	top: 140px;
+	left: 55px;
+}
+#s5 {
+	top: 239px;
+	left: 46px;
+}
+#s6 {
+	top: 50px;
+	left: 155px;
+}
+#s7 {
+	top: 150px;
+	left: 145px;
+}
+
+#s11 {
+	top: 50px;
+	left: 234px;
+}
+#s12 {
+	top: 150px;
+	left: 225px;
+}
+#s13 {
+	top: 43px;
+	left: 254px;
+}
+#s14 {
+	top: 140px;
+	left: 245px;
+}
+#s15 {
+	top: 239px;
+	left: 236px;
+}
+#s16 {
+	top: 50px;
+	left: 345px;
+}
+#s17 {
+	top: 150px;
+	left: 335px;
+}
